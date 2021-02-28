@@ -1,0 +1,1 @@
+In this project I try to predict the amount of Solar Energy created by Solar Pannels based on the weather forecast. The data is downloaded from: https://www.kaggle.com/ramima/weather-dataset-in-antwerp-belgium and https://www.kaggle.com/fvcoppen/solarpanelspower
